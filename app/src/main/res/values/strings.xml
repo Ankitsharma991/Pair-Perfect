@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Pair Perfect</string>
     <string name="pair_perfect">Pair Perfect</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="pair_0_4">Pair: 0/4</string>
+    <string name="score">Score</string>
 </resources>
